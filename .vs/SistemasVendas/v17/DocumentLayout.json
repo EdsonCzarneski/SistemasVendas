@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\SistemasVendas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AC60F84A-FE6C-4CF6-975A-35A0ECCE69BD}|SistemasVendas\\SistemasVendas.csproj|c:\\users\\user\\source\\repos\\sistemasvendas\\sistemasvendas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC60F84A-FE6C-4CF6-975A-35A0ECCE69BD}|SistemasVendas\\SistemasVendas.csproj|solutionrelative:sistemasvendas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC60F84A-FE6C-4CF6-975A-35A0ECCE69BD}|SistemasVendas\\SistemasVendas.csproj|c:\\users\\user\\source\\repos\\sistemasvendas\\sistemasvendas\\frmusuariopainel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC60F84A-FE6C-4CF6-975A-35A0ECCE69BD}|SistemasVendas\\SistemasVendas.csproj|solutionrelative:sistemasvendas\\frmusuariopainel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC60F84A-FE6C-4CF6-975A-35A0ECCE69BD}|SistemasVendas\\SistemasVendas.csproj|c:\\users\\user\\source\\repos\\sistemasvendas\\sistemasvendas\\frmadminpainel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AC60F84A-FE6C-4CF6-975A-35A0ECCE69BD}|SistemasVendas\\SistemasVendas.csproj|solutionrelative:sistemasvendas\\frmadminpainel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SistemasVendas\\SistemasVendas\\Program.cs",
+              "RelativeDocumentMoniker": "SistemasVendas\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SistemasVendas\\SistemasVendas\\Program.cs",
+              "RelativeToolTip": "SistemasVendas\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:13:45.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmUsuarioPainel.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SistemasVendas\\SistemasVendas\\frmUsuarioPainel.cs",
+              "RelativeDocumentMoniker": "SistemasVendas\\frmUsuarioPainel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SistemasVendas\\SistemasVendas\\frmUsuarioPainel.cs [Projeto]",
+              "RelativeToolTip": "SistemasVendas\\frmUsuarioPainel.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T17:12:42.084Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmAdminPainel.cs [Projeto]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SistemasVendas\\SistemasVendas\\frmAdminPainel.cs",
+              "RelativeDocumentMoniker": "SistemasVendas\\frmAdminPainel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SistemasVendas\\SistemasVendas\\frmAdminPainel.cs [Projeto]",
+              "RelativeToolTip": "SistemasVendas\\frmAdminPainel.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T22:06:44.446Z",
+              "EditorCaption": " [Projeto]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

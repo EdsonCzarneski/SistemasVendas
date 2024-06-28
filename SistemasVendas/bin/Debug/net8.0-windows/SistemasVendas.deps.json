@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SistemasVendas/1.0.0": {
+        "runtime": {
+          "SistemasVendas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SistemasVendas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

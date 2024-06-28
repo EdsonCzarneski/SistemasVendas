@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\SistemasVendas\SistemasVendas\bin\Debug\net8.0-windows\SistemasVendas.exe
+C:\Users\User\source\repos\SistemasVendas\SistemasVendas\bin\Debug\net8.0-windows\SistemasVendas.deps.json
+C:\Users\User\source\repos\SistemasVendas\SistemasVendas\bin\Debug\net8.0-windows\SistemasVendas.runtimeconfig.json
+C:\Users\User\source\repos\SistemasVendas\SistemasVendas\bin\Debug\net8.0-windows\SistemasVendas.dll
+C:\Users\User\source\repos\SistemasVendas\SistemasVendas\bin\Debug\net8.0-windows\SistemasVendas.pdb
+C:\Users\User\source\repos\SistemasVendas\SistemasVendas\obj\Debug\net8.0-windows\SistemasVendas.frmAdminPainel.resources
+C:\Users\User\source\repos\SistemasVendas\SistemasVendas\obj\Debug\net8.0-windows\SistemasVendas.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SistemasVendas\SistemasVendas\obj\Debug\net8.0-windows\SistemasVendas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SistemasVendas\SistemasVendas\obj\Debug\net8.0-windows\SistemasVendas.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SistemasVendas\SistemasVendas\obj\Debug\net8.0-windows\SistemasVendas.AssemblyInfo.cs
+C:\Users\User\source\repos\SistemasVendas\SistemasVendas\obj\Debug\net8.0-windows\SistemasVendas.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SistemasVendas\SistemasVendas\obj\Debug\net8.0-windows\SistemasVendas.dll
+C:\Users\User\source\repos\SistemasVendas\SistemasVendas\obj\Debug\net8.0-windows\refint\SistemasVendas.dll
+C:\Users\User\source\repos\SistemasVendas\SistemasVendas\obj\Debug\net8.0-windows\SistemasVendas.pdb
+C:\Users\User\source\repos\SistemasVendas\SistemasVendas\obj\Debug\net8.0-windows\SistemasVendas.genruntimeconfig.cache
+C:\Users\User\source\repos\SistemasVendas\SistemasVendas\obj\Debug\net8.0-windows\ref\SistemasVendas.dll
